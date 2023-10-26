@@ -1,7 +1,7 @@
 use std::fs;
 
 pub fn most_calories(input: &str) -> u32 {
-    let input = match fs::read_to_string("input.txt") {
+    let input = match fs::read_to_string(input) {
         Ok(s) => s,
         Err(_) => panic!("corrupted file"),
     };
