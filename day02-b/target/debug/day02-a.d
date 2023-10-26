@@ -1,0 +1,1 @@
+/home/kerem/Programming/rust/Advent-of-code-2022/day02-b/target/debug/day02-a: /home/kerem/Programming/rust/Advent-of-code-2022/day02-b/src/lib.rs /home/kerem/Programming/rust/Advent-of-code-2022/day02-b/src/main.rs
